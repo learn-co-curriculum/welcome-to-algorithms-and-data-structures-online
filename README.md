@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to algorithms and data structures! In an effort to better prepare you for technical interviews, we’ve assembled a list of readings and challenges for you to work through daily. Please note that this content is optional. You don’t need to complete it to progress through each Phase or graduate.
+Welcome to algorithms and data structures! In an effort to better prepare you for technical interviews and increase your confidence, we’ve assembled a list of readings and challenges for you to work through daily. Please note that this content is optional. You don’t need to complete it to progress through each Phase or graduate.
 
 **_Since this content is optional, Ask a Question support will not be available. Please lean on your fellow students and the Internet for help._**
 
